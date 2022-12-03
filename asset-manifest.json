@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swan-assignment/static/css/main.c4fe6b2e.css",
+    "main.js": "/swan-assignment/static/js/main.a31f7d71.js",
+    "static/js/787.0c3f432a.chunk.js": "/swan-assignment/static/js/787.0c3f432a.chunk.js",
+    "static/media/verified.png": "/swan-assignment/static/media/verified.0f8c5a77080f72a86034.png",
+    "index.html": "/swan-assignment/index.html",
+    "main.c4fe6b2e.css.map": "/swan-assignment/static/css/main.c4fe6b2e.css.map",
+    "main.a31f7d71.js.map": "/swan-assignment/static/js/main.a31f7d71.js.map",
+    "787.0c3f432a.chunk.js.map": "/swan-assignment/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4fe6b2e.css",
+    "static/js/main.a31f7d71.js"
+  ]
+}
